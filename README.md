@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kinglion2396
+- 👀 I’m interested in becoming a data analyst
+- 🌱 I’m currently learning hrml // C++ // Python // SQL
+- 💞️ I’m looking to collaborate on any project that will help me improve my skills
+- 📫 Email me: edfernandezdecastro@gmail.com
